@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kabutoa
-- 👀 JavaScript & Python & Go
+- 👀 JavaScript
 - 📫 WeChat: youzizi_1
 
 <!---
